@@ -6,6 +6,10 @@ Academia ficticia iConBuilder é um projeto da materia - Fabrica de software | U
 
 Para rodar primeiramente clone o repositorio :
 
+```bash
+  Git clone https://github.com/Luccaskawan/projeto-academia-iconbuilder.git
+```
+
 Usamos a extencao "Spring Boot Dashboard" para iniciar a aplicaçao
 
 ![image](https://github.com/user-attachments/assets/334efbdf-9e44-424e-b2a9-894e19cee92a)
