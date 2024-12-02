@@ -2,7 +2,7 @@
 # Academia iConBulder
 
 Academia ficticia iConBuilder é um projeto da materia - Fabrica de software | Univille 6° Semestre, desenvolvido por Luccas Kawan Prudencio, Lucas Zacarias Medeiros.
-É uma aplicaçao front e backend umtilizando as tecnologias Java, HTML, CSS e JS.
+É uma aplicaçao front e backend ultilizando as tecnologias Java, HTML, CSS e JS.
 
 Para rodar primeiramente clone o repositorio :
 
